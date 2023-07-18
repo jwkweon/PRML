@@ -2,7 +2,7 @@
 
 * [Welcome!](README.md)
 * [Quick Start](quick-start.md)
-* [Page 1](page-1.md)
+* [Chapter 1](chapter-1.md)
 
 ## Reference
 
