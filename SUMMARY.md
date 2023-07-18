@@ -2,14 +2,13 @@
 
 * [Welcome!](README.md)
 * [Quick Start](quick-start.md)
-* [Chapter 1](chapter-1.md)
 
 ## Chapter 1
 
-* [Page 1](chapter-1-1/page-1/README.md)
-  * [Page 2](chapter-1-1/page-1/page-2.md)
-  * [Page 3](chapter-1-1/page-1/page-3.md)
-  * [Page 4](chapter-1-1/page-1/page-4.md)
+* [1.1](chapter-1/1.1/README.md)
+  * [Page 2](chapter-1/1.1/page-2.md)
+  * [Page 3](chapter-1/1.1/page-3.md)
+  * [Page 4](chapter-1/1.1/page-4.md)
 
 ## Reference
 
